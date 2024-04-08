@@ -1,0 +1,23 @@
+Climate Compatible Growth: Transport Data for Starter Data Kits
+---------------------------------------------------------------
+
+For transport data on Passenger-KM, Tonnes-KM, and Vehicle-fleet in Thailand,
+please copy and paste the link below into your browser:
+https://doi.org/10.5281/zenodo.6540050
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
